@@ -1,4 +1,4 @@
-# Apple Stock Price Prediction
+# Stock Price Prediction
 
 This project downloads Apple's daily closing prices from Tiingo, trains a stacked long short-term memory (LSTM) neural network, and plots historical prices alongside model predictions and a 30-step forecast.
 
